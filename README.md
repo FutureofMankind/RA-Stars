@@ -1,8 +1,10 @@
 Рейтинг фильмов
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/i5e032ehua5a43fe/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/ra-stars/branch/main)
+
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
-![Список фильмов](./assets/preview.png)
+![Список фильмов](pic/preview.png)
 
 ## Описание компонента
 
